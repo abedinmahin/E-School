@@ -1,0 +1,180 @@
+.rectangular{
+    border: 1px solid black;
+    height: 515px;
+    background-color: rgba(240, 255, 240, 1);
+}
+.navbar-brand img{
+    height: 70px;
+    width:170px;
+    padding-top: 25px;
+}
+.nav-item{
+    padding-top: 20px;
+    padding-left: 50px;
+    font-weight: 700;
+}
+#sign{
+    font-weight: 500;
+    height: 45px;
+    width: 100px;
+    background-color: rgba(33, 181, 115, 1);
+    border-radius: 30px;
+    padding-left: 23px;
+    color: white;
+    cursor: pointer;
+}
+.red{
+    color: red;
+}
+.strok{
+    font-weight: bolder;
+}
+.green{
+    color:rgba(33, 181, 115, 1);
+}
+.start{
+    width: 200px;
+    height: 100px;
+   background-color: black;
+}
+.start{
+    height: 50px;
+    width: 160px;
+    background-color:rgba(33, 181, 115, 1) ;
+    border-radius: 25px;
+    
+}
+.image img{
+    height: 430px;
+    width: 560px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+#padding{
+    padding-top: 50px;
+    padding-left: 180px;
+    padding-bottom: 30px;
+}
+.gray{
+    color: gray;
+}
+.col-md-3 img{
+    height: 73px;
+    width: 60px;
+}
+.box-1, .box-2, .box-3, .box-4{
+    height: 240px;
+    width: 240px;
+    background-color: rgba(248, 255, 251, 1) ;
+    border-radius: 20px;
+}
+.categories{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.box{
+    padding-left: 92px;
+    padding-top: 50px;
+}
+.text-1{
+    padding-left: 70px ;
+}
+.text-2{
+    padding-left: 55px;
+}
+.text-3, .text-4{
+    padding-left: 60px;
+}
+.pad{
+    padding-left: 80px;
+    font-size: small;
+}
+.box-2{
+    background-color: white;
+    box-shadow: 1px 1px 3px lightslategray;
+}
+.courses h2{
+    text-align: center;
+    margin-bottom: 70px;
+    font-weight: 700;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.buy{
+    height: 35px;
+    width: 135px;
+    background-color: rgba(33, 181, 115, 1);
+    border-radius: 20px;
+    padding-top: 5px;
+    margin-left: 15px;
+    cursor: pointer;
+    color: white;
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+.courses{
+    margin-bottom: 70px;
+}
+.footer img{
+      height: 24px;
+      width: 24px;
+      margin-left: 10px;
+}
+.april{
+    padding-right: 125px;
+}
+.footer{
+    margin-bottom: 25px;
+}
+.h-100{
+    height: 485px;
+    width: 390px;
+}
+.card-img-top{
+    padding: 15px 15px;
+}
+.test{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.test h2{
+    margin-bottom: 70px;
+    font-weight: 700;
+}
+.test img{
+    height: 120px;
+    width: 120px;
+    margin-left: 280px;
+}
+.picture{
+    display: flex;
+}
+.picture p{
+    margin-top: 10px;
+    margin-left: 30px;
+    text-align: justify;
+    margin-right: 100px;
+}
+.truck{
+    height: 364px;
+    width: 1546px;
+    background-color: black;
+}
+.all{
+    display: flex;
+}
+.course, .terms, .useful, .tr{
+    color: rgba(255, 255, 255, 1);
+    padding-right: 200px;
+    padding-top: 70px;
+}
+footer{
+    text-align: center;
+    color: rgba(205, 205, 205, 1);
+    padding-top: 100px;
+}
+.truck h6{
+    font-weight: 800;
+}
