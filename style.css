@@ -1,6 +1,7 @@
 .rectangular{
     border: 1px solid black;
     height: 515px;
+    width: 1546px;
     width: auto;
     background-color: rgba(240, 255, 240, 1);
 }
@@ -51,6 +52,11 @@
     padding-top: 50px;
     padding-bottom: 30px;
 }
+.categories{
+    margin-top: 50px;
+    width: 1546px;
+    margin-bottom: 100px;
+}
 #padding{
     padding-top: 50px;
     padding-left: 180px;
@@ -68,10 +74,6 @@
     width: 240px;
     background-color: rgba(248, 255, 251, 1) ;
     border-radius: 20px;
-}
-.categories{
-    margin-top: 50px;
-    margin-bottom: 100px;
 }
 .box{
     padding-left: 92px;
@@ -94,6 +96,10 @@
     background-color: white;
     box-shadow: 1px 1px 3px lightslategray;
 }
+.courses{
+    margin-bottom: 70px;
+    width: 1546px;
+}
 .courses h2{
     text-align: center;
     margin-bottom: 70px;
@@ -115,9 +121,6 @@
     margin-bottom: 40px;
     margin-top: 10px;
 }
-.courses{
-    margin-bottom: 70px;
-}
 .footer img{
       height: 24px;
       width: 24px;
@@ -137,6 +140,7 @@
     padding: 15px 15px;
 }
 .test{
+    width: 1546px;
     text-align: center;
     margin-bottom: 100px;
 }
